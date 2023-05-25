@@ -8,6 +8,7 @@
 # This script will help users to communicate and retrieve information from GitHub
 # Usage:
 #   Please provide your github token and rest api to the script as input
+# Here, user has to pass two arguments - One Token and other is the desired Rest Expression{Whichever info wanted to retrieve}
 #
 ################################
 
